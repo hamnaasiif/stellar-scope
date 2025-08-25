@@ -1,5 +1,5 @@
 import CTAButton from './CTAButton';
-import heroImage from '../assets/h1.jpg'; // 👈 import the background image
+import heroImage from '../assets/h1.jpg'; 
 
 const Hero = () => {
   const heroStyles = {
